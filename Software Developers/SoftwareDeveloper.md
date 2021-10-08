@@ -34,8 +34,6 @@ Read more about software development on the
 
  * Experience of good practices such as Test-Driven Development, CI/CD, and DevOps as well as modern development workflows, ideally using GitHub
 
-TODO (If Ruby else delete) A good knowledge of Unix-like operating systems such as Linux and Mac OS X. 
-
  * Knowledge of good software design principles such  as OOD, SOLID and design patterns
 
  * Experience of RESTful API design and loosely coupled microservices architectures
