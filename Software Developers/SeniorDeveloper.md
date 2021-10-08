@@ -1,0 +1,137 @@
+# Senior C#/Ruby Developer
+
+Grade 7
+
+  
+
+These are exciting times at the Department for Education. We are transforming to become a user centred organisation, delivering better outcomes for all our users through agile and iterative software development and continuous improvement.
+
+  
+
+You will work with user researchers, product managers, designers, business analysts, delivery managers and content specialists as part of a multi-disciplinary team to directly deliver better outcomes for users. You will innovate to radically transform how public services are delivered and improved.
+
+  
+
+Read more about software development on the [DfE Digital blog](https://dfedigital.blog.gov.uk/2020/10/06/software-developers/).
+
+  
+
+## You will:
+
+-   Lead and provide technical support for a large team of developers across a variety of products and services
+    
+
+  
+
+-   Work with the development community to ensure we build sustainable digital products
+    
+
+  
+
+-   Create and sustain modern development standards, practices and techniques for our development community
+    
+
+  
+
+-   Support, coach and mentor less experienced developers and help them integrate into teams
+    
+
+  
+
+-   Advocate user-centric, agile approaches which focus on rapid, effective delivery of high quality digital services
+    
+
+  
+
+-   Help build and maintain a diverse, inclusive culture across the development community, growing awareness, inclusivity, and balance
+    
+
+  
+
+-   Transform government into a modern, agile development centre by embedding practices such as Test Driven Development, continuous deployment, and DevOps
+    
+
+  
+
+-   Support sharing of methods and technologies across teams, government, and the industry by participating in and organising community events
+    
+
+## You’ll have:
+
+Essential:
+
+  
+
+-   Expert knowledge of software development using (Ruby and the Ruby on Rails framework/ C#.NET / Ruby and the Ruby on Rails framework, C#/.NET, or similar)
+    
+
+  
+
+-   Experience leading by example working with technical teams to deliver user-focused services in an agile environment
+    
+
+  
+
+-   Experience of good practices such as Test-Driven Development, CI/CD, and DevOps as well as modern development workflows, ideally using GitHub
+    
+
+  
+
+-   (If Ruby else delete) A good knowledge of Unix-like operating systems such as Linux and macOS.
+    
+
+  
+
+-   Experience of good software design principles such as OOD, SOLID and design patterns
+    
+
+  
+
+-   Experience of RESTful API design and loosely coupled microservices architectures
+    
+
+  
+
+-   A good understanding of web application security and awareness of the OWASP Top 10 security vulnerabilities
+    
+
+  
+
+-   Enthusiasm for sharing knowledge, mentoring others, and working in a diverse and inclusive multi-disciplinary team
+    
+
+  
+  
+
+Desirable:
+
+  
+
+-   A cloud-first approach and experience of IaaS and PaaS solutions as well as understanding infrastructure-as-code and containerisation
+    
+
+  
+
+-   Experience of mentoring and supporting your colleagues, whether one-to-one or in groups and a passion for building teams and communities
+    
+
+  
+  
+
+Technical skills:
+
+We’ll assess you against these technical skills during the selection process
+
+  
+
+-   Modern standard approach - You can use a modern standards approach to solve problems, using test driven development (TDD) techniques
+    
+
+  
+
+-   Programming and build - You can write clear, concise and maintainable code using standard tools
+    
+
+  
+
+-   A systematic approach to problem solving
