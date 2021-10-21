@@ -1,13 +1,13 @@
 # Site Reliability Engineer
 Grade: SEO
 
-Here at the Department for Education (DfE), we have a clear vision to create a world-class education, training and care for everyone, whatever their background, so that everyone has the chance to reach their potential and live a more fulfilled life and we are looking for talented people to achieve it. The video below gives an insight into the culture which is being developed within some of the teams. https://www.youtube.com/watch?v=dgS-yJKR4Z4
+Here at the Department for Education (DfE), we have a clear vision to create world-class education, training and care for everyone, whatever their background, so that everyone has the chance to reach their potential and live a more fulfilled life and we are looking for talented people to achieve it. The video below gives an insight into the culture which is being developed within some of the teams. https://www.youtube.com/watch?v=dgS-yJKR4Z4
 
 You’ll be part of a team that shares a vision of making public services digital by default, simpler, clearer and faster to use. As a Site Reliability Engineer, you will be using the latest technologies and trends, whilst delivering working software early and often. Working as part of a multi-disciplinary team, you’ll develop your skills to build a career as a Site Reliability Engineer. You will be helping to build digital services for a diverse set of users, including Citizens, Teachers, Social Workers and School Professionals
 
 Site Reliability Engineer roles at the DfE align with the technical job family in the Government DDaT Profession Capability Framework. More information can be found here. https://www.gov.uk/guidance/development-operations-devops-engineer
 
-The technologies you will be using as a site reliability engineer at DfE include: GOV.UK Paas, Docker, Linux, Git, Github actions, Azure, Azure Devops, Ruby, Ruby on Rails, Powershell, Terraform, Prometheus, Grafana, ELK stack.
+The technologies you will be using as a site reliability engineer at DfE include: GOV.UK Paas, Docker, Linux, Git, GitHub actions, Azure, Azure Devops, Ruby, Ruby on Rails, Powershell, Terraform, Prometheus, Grafana, ELK stack.
 
 ## You will:
 
@@ -21,11 +21,11 @@ As a site reliability engineer you will:
 
  * Implement modern software development practices such as CI/CD, and DevOps as well as modern development workflows using GitHub and Azure DevOps
 
- * Work in an fully Agile environment
+ * Work in a fully Agile environment
 
  * Use development skills to maintain applications as well as create powerful automation and monitoring scripts
 
- * Use infrastructure skills including systems and networks to deploy and integrate services in the cloud
+ * Use infrastructure skills to deploy and integrate services in the cloud
 
  * With the support of senior SREs and the wider community, learn to build secure, reliable and scalable systems, automate processes to increase delivery efficiency, assist developers to troubleshoot live systems
 
@@ -39,7 +39,7 @@ As a site reliability engineer you will:
 
  * Experience in software development or scripting, ideally with Ruby, Bash, Powershell or similar
 
- * Experience with troubleshooting web applications
+ * Experience troubleshooting web applications
 
  * Experience with Linux or other Unix based operating systems
 

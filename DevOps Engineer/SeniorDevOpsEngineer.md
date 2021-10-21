@@ -5,9 +5,9 @@ These are exciting times at the Department for Education. We are transforming to
 
 You will work with user researchers, product managers, designers, business analysts, delivery managers and content specialists as part of a multi-disciplinary team to directly deliver better outcomes for users. You will innovate to radically transform how public services are delivered and improved.
 
-As a DevOps Engineer, you will be using the latest technologies and trends, whilst delivering working software early and often.
+As a Senior DevOps Engineer, you will be using the latest technologies and trends, whilst delivering working software early and often.
 
-Working as part of a multi-disciplinary team, you’ll keep developing your skills to build a career as a Site Reliability Engineer as well as leading and coaching other DevOps engineers.
+Working as part of a multi-disciplinary team, you’ll keep developing your skills to build a career as a DevOps Engineer as well as leading and coaching other DevOps engineers.
 
 ## You will:
 
@@ -55,7 +55,7 @@ Working as part of a multi-disciplinary team, you’ll keep developing your skil
     
  * Experience building, running, optimising Docker container images
     
- * Understanding with Test-Driven Development
+ * Understanding of Test-Driven Development
     
 ### Technical skills:
 
