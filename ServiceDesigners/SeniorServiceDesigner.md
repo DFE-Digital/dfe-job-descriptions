@@ -15,19 +15,19 @@ You’ll be working with people who value user research and design and you’ll 
 
 We're creating a great place to work by offering:
 
-• An environment with flexible working options including flexi-time with no core hours
+ - An environment with flexible working options including flexi-time with no core hours
 
-• Learning and development tailored to your role and a personal learning and development budget
+ - Learning and development tailored to your role and a personal learning and development budget
 
-• A culture encouraging inclusion and diversity
+ - A culture encouraging inclusion and diversity
 
-• An employer pension contribution of up to 27%
+ - An employer pension contribution of up to 27%
 
-• A generous annual leave allowance up to 30 days after 5 years of service
+ - A generous annual leave allowance up to 30 days after 5 years of service
 
-• Modern and effective collaboration tools
+ - Modern and effective collaboration tools
 
-• A wide variety of staff support networks including a Women's Network, BAME Network, Wellbeing Network and many more
+ - A wide variety of staff support networks including a Women's Network, BAME Network, Wellbeing Network and many more
 
 It’s important to us that we recruit from a wide range of professional and personal backgrounds – bringing different perspectives, diversity of thought and experiences to our work. If you would like to know more about our commitment to making DfE more equitable, please read our [blog.](https://dfedigital.blog.gov.uk/making-dfe-digital-more-equitable/) Further information about our benefits package can also be found [here!](https://dfedigital.blog.gov.uk/benefits/)
 
