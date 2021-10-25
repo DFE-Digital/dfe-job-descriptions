@@ -33,7 +33,7 @@ It’s important to us that we recruit from a wide range of professional and per
 
 # Job description
 
-## As a Senior Service Designer you will :
+### As a Senior Service Designer you will :
 
 -   be part of the user-centred design team and DfE’s growing design community of practice
     
@@ -66,9 +66,7 @@ It’s important to us that we recruit from a wide range of professional and per
 -   coach, mentor and train other designers, helping set and communicate good practice to improve quality and consistency across DfE’s transformation programmes
     
 
-# Responsibilities
-
-Essential skills and expertise for this role are:
+### Essential skills and expertise for this role are:
 
 -   Evidence- and context-based design. You know how to design systems for use across multiple services and can identify the simplest approach out of a variety of approaches.
     
@@ -85,13 +83,13 @@ Essential skills and expertise for this role are:
 
 # Things you need to know
 
-## Security
+### Security
 
 Successful candidates must pass a disclosure and barring security check.
 
 People working with government assets must complete [basic personnel security standard](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) checks.
 
-## Selection process details
+### Selection process details
 
 This vacancy is using [Success Profiles](https://www.gov.uk/government/publications/success-profiles), and will assess your Experience and Technical skills.
 
