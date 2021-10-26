@@ -4,7 +4,7 @@ It’s an exciting time to be joining DfE Digital and Technology. We’re transf
 
 DfE’s Digital and Technology team is constantly growing and a key 2021 priority is to respond to the needs of children and students. You can find out more in Chief Digital and Technology Officer Emma Stace’s blog, [DfE’s Digital and Technology strategy.](https://dfedigital.blog.gov.uk/2021/04/21/strategy/)
 
-We’re looking for a lead service design to join our [Name of portfolio]. Our mission is to drive the delivery of user-centred policies and services that support the department’s strategic priorities to:
+We’re looking for a lead service designer to join our [Name of portfolio]. Our mission is to drive the delivery of user-centred policies and services that support the department’s strategic priorities to:
 -   Policy Outcome
 -   policy Outcome
 -   Delivery outcome  
@@ -13,6 +13,10 @@ We’re looking for a lead service design to join our [Name of portfolio]. Our m
 You will be joining a friendly, motivated and multidisciplinary team with an outward outlook and strong commitment to supporting [users ie children and families.] You’ll be working with people who value user research and design and you’ll be creating work you’ll feel proud of.
 
 # Job description
+
+As a Lead Service Designer, you will be leading a portfolio of services and products within a particualr area of the education system. You will lead the service design strategy to make sure the end-to-end jounrey of a service works. You will collaborate with and influence policy, ecosystem mapping and ensuring consideration of '[full stack]' https://medium.com/full-stack-service-design/full-stack-service-design-3ca683302240 service design.  
+
+We want your design thinking to help us with our mission to build user-centred services, accessible for everyone. You will work in multidisciplinary teams, alongside user researchers, developers, data analysts, policy experts and others. You will help to deliver excellent, user-centred public and behind-the-scenes services. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government. You will identify opportunities and gaps for end users and the organisation across different touchpoints, to help users complete tasks without friction.
 
 ### As a Lead Service Designer you will :
 -   provide service design leadership to a specific service area, such as services for teachers or social carers, Work with stakeholders and senior leaders to create the service vision and build a roadmap to deliver outcomes.
