@@ -14,7 +14,7 @@ You will be joining a friendly, motivated and multidisciplinary team with an out
 
 # Job description
 
-As a Lead Service Designer, you will be leading a portfolio of services and products within a particualr area of the education system. You will lead the service design strategy to make sure the end-to-end jounrey of a service works. You will collaborate with and influence policy, ecosystem mapping and ensuring consideration of '[full stack]' https://medium.com/full-stack-service-design/full-stack-service-design-3ca683302240 service design.  
+As a Lead Service Designer, you will be leading a portfolio of services and products within a particular area of the education system. You will lead the service design strategy to make sure the end-to-end journey of a service works. You will collaborate with and influence policy, ecosystem mapping and ensuring consideration of '[full stack]' https://medium.com/full-stack-service-design/full-stack-service-design-3ca683302240 service design.  
 
 We want your design thinking to help us with our mission to build user-centred services, accessible for everyone. You will work in multidisciplinary teams, alongside user researchers, developers, data analysts, policy experts and others. You will help to deliver excellent, user-centred public and behind-the-scenes services. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government. You will identify opportunities and gaps for end users and the organisation across different touchpoints, to help users complete tasks without friction.
 
@@ -28,7 +28,7 @@ As a lead service designer, you will be an expert practitioner who influences an
 -   provide direction and contribute more widely to the future of service design as a profession
 -   work closely with other departments to make sure we have a cohesive approach to service design as well as to design services that cut across departments where necessary
 -   prioritise understanding the needs and behaviour of users and know how to use this insight to underpin and drive the work that we do 
--   contribute and build a vibrant, diverse and passionate service design community and help to mature the profession capability, standards and service design design 
+-   contribute and build a vibrant, diverse and passionate service design community and help to mature the profession capability, standards and service design 
 -   Actively promote the design perspective in discussions with teams and stakeholders. Mentor and coach individuals and service teams, support education including inductions, training and workshops. 
 -   assess service performance against government standards
 -   lead discussions at a senior departmental level and successfully negotiate change to support the delivery of better services 

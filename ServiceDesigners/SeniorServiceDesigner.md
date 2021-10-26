@@ -25,7 +25,7 @@ It’s important to us that we recruit from a wide range of professional and per
 
 # Job description
 
-As a Senior Service Designer, you will be responsible for end-to-end jounrey of a service. Service strategy, collaborating with and influencing policy, ecosystem mapping and ensuring consideration of '[full stack]' https://medium.com/full-stack-service-design/full-stack-service-design-3ca683302240 service design. 
+As a Senior Service Designer, you will be responsible for end-to-end journey of a service. Service strategy, collaborating with and influencing policy, ecosystem mapping and ensuring consideration of '[full stack]' https://medium.com/full-stack-service-design/full-stack-service-design-3ca683302240 service design. 
 
 We want your design thinking to help us with our mission to build user-centred services, accessible for everyone. You will work in multidisciplinary teams, alongside user researchers, developers, data analysts, policy experts and others. You will help to deliver excellent, user-centred public and behind-the-scenes services. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government. You will identify opportunities and gaps for end users and the organisation across different touchpoints, to help users complete tasks without friction.
 
