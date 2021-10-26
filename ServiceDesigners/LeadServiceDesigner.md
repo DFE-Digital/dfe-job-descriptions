@@ -52,13 +52,12 @@ Successful candidates must pass a disclosure and barring security check.
 
 People working with government assets must complete [basic personnel security standard](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) checks.
 
-## Selection process details
+### Selection process details
 
 This vacancy is using [Success Profiles](https://www.gov.uk/government/publications/success-profiles), and will assess Technical skills, your Experience and Behaviours.
 
 Please be advised there are two stages to the recruitment process for this role, these are outlined below.
-
-  
+ 
 
 ### Stage One - The Application:
 You will be assessed on your experience through your CV, statement of suitability and skills and experience.
@@ -68,18 +67,23 @@ For your statement of suitability, please clearly demonstrate your relevant expe
 #### Skills and experience
 
 Your CV and statement of suitability will be assessed in line with the essential criteria in the responsibilities section.
-  
-### Stage Two - Interview
-The interview will include three parts:
 
-1 week ahead of the interview
+### Stage Two - Portfolio:
+Send a portfolio which covers 3 case studies, demonstrating your technical skills and experience as a lead strategic service designer.
 
--   Portfolio demonstrating your experience against the essential criteria listed in the responsibilities section of the advert.
+Tips on what to include for each case study:
+
+ - A project/strategy name
+ - An outline of the challenge
+ - What you did (photos - show us the work)
+ - Impact
+
+
+### Stage Three - Interview
     
+#### During the interview
 
-### During the interview
-
--   10 minute of 1 case study presentation from your portfolio, demonstrating your experience against the essential criteria listed in the responsibilities section of the advert.   
+-   10 minute of 1 case study presentation from your portfolio, demonstrating your technical skills against the essential criteria listed in the responsibilities section of the advert.   
 -   10 minute presentation of a short, low-fidelity design task demonstrating your design thinking approach.   
 -   Technical, Behaviour and experience questions based on the essential criteria for the role
     
