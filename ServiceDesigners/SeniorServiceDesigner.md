@@ -25,25 +25,30 @@ It’s important to us that we recruit from a wide range of professional and per
 
 # Job description
 
-As a Senior Service Designer, you will be responsible for end-to-end jounrey of a service. 
+As a Senior Service Designer, you will be responsible for end-to-end jounrey of a service. Service strategy, collaborating with and influencing policy, ecosystem mapping and ensuring consideration of '[full stack]' https://medium.com/full-stack-service-design/full-stack-service-design-3ca683302240 service design. 
+
 We want your design thinking to help us with our mission to build user-centred services, accessible for everyone. You will work in multidisciplinary teams, alongside user researchers, developers, data analysts, policy experts and others. You will help to deliver excellent, user-centred public and behind-the-scenes services. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government. You will identify opportunities and gaps for end users and the organisation across different touchpoints, to help users complete tasks without friction.
 
 ### As a Senior Service Designer you will :
 
--   be part of the user-centred design team and DfE’s growing design community of practice
--   have experience of advocating for user needs in all aspects of design work; experience of user-centered design and creating joined up services
--   lead the design of services across teams and support the wider organisational objectives and strategic priorities
--   understand the existing system of your service and work with teams to target improvements and cost reductions
+ -   provide service design leadership to a specific service area, such as services for teachers or social carers. Work with stakeholders and senior leaders to create the service vision and build a roadmap to deliver outcomes.
+-   Contribute and lead to help shape a vibrant, diverse and passionate service design community and UCD family and help to mature the profession capability, standards and service design design 
+-   work closely with other departments to make sure we have a cohesive approach to service design as well as to design services that cut across departments where necessary
+-   prioritise understanding the needs and behaviour of users and know how to use this insight to underpin and drive the work that we do 
+-   Actively promote the design perspective in discussions with teams and stakeholders. Mentor and coach individuals and service teams, support education including inductions, training and workshops. 
+-   lead discussions at a senior departmental level and successfully negotiate change to support the delivery of better services 
+-   communicate effectively to share the as-is and the future vision of the service, working closely with service owners to help define the backlog, pulling together aspects such as user research, business design, data science, policy intent and key metrics 
+-   analyse failure within a service and identify root causes for that failure 
+-   work with other specialists to design and create organisational or financial structures that support the delivery of new services   
+-   lead discussions at a senior level and successfully negotiate policy and legislative change to support new services   
+-   map/prototype end-to-end services and understand how they fit into wider societal, service, system and organisational contexts
+-   create and rapidly iterate both digital and non-digital service prototypes 
+-   identify and design new service patterns and standards that scale 
+-   coach, mentor and train other designers, helping set and communicate good practice to improve quality and consistency across DfE’s transformation programmes
 -   know how to design inclusive, accessible digital services that solve a whole problem for users
--   capture, document and present holistic experiences in a clear, engaging way
--   work with stakeholders and senior leaders to create the service vision and build a roadmap to deliver outcomes
--   lead discussions at a senior departmental level and successfully negotiate change to support the delivery of better services
--   communicate effectively to share the as-is and the future vision of the service, working closely with service owners to help define the backlog 
+-   understand the existing system of your service and work with teams to target improvements and cost reductions
 -   help people and teams overcome complexity, running and synthesising workshops to create clarity, alignment and direction
--   analyse failure within services and identify root causes for failure 
--   actively promote the design perspective in discussions with teams and stakeholders
--   map end-to-end services and understand how they fit into wider societal, service, system and organisational contexts
--   create and rapidly iterate both digital and non-digital service prototypes
+-   analyse failure within services and identify root causes for failures
 -   coach, mentor and train other designers, helping set and communicate good practice to improve quality and consistency across DfE’s transformation programmes
     
 
@@ -118,6 +123,6 @@ The interview will include three parts:
     
     
 
-Interviews are expected to take place in September.
+Interviews are expected to take place in [month].
 
 Interviews will be conducted via Microsoft Teams, if you are invited to interview, please ensure that you have access to this software. If you have any questions, please do not hesitate to get in contact.
