@@ -77,7 +77,14 @@ Your CV and statement of suitability will be assessed in line with the essential
 
 ### Stage Two - Portfolio
 
-Send a portfolio which covers 3 case studies, demonstrating your technical skills and experience as a service designer and showing examples of end-to-end service delivery.
+Send a portfolio which covers 3 case studies, demonstrating your technical skills and experience as a strategic service designer.
+
+Tips on what to include for each case study:
+
+ - A project name
+ - An outline of the challenge
+ - What you did (photos - show us the work)
+ - Impact
 
 ### Stage Three - Interview
 
