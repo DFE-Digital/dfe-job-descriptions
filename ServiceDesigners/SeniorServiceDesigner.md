@@ -29,7 +29,15 @@ As a Senior Service Designer, you will be responsible for end-to-end jounrey of 
 
 We want your design thinking to help us with our mission to build user-centred services, accessible for everyone. You will work in multidisciplinary teams, alongside user researchers, developers, data analysts, policy experts and others. You will help to deliver excellent, user-centred public and behind-the-scenes services. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government. You will identify opportunities and gaps for end users and the organisation across different touchpoints, to help users complete tasks without friction.
 
-### As a Senior Service Designer you will :
+You'll be an experienced designer who works with minimal support and can influence and mentor others. 
+
+### At this level, you:
+
+ - will work with service managers and programme directors to develop design concepts
+ - may have responsibility across complex services
+ - will help set direction and embed good practice within teams
+ - will make important decisions based on research and understand how this research impacts others
+
 
  -   provide service design leadership to a specific service area, such as services for teachers or social carers. Work with stakeholders and senior leaders to create the service vision and build a roadmap to deliver outcomes.
 -   Contribute and lead to help shape a vibrant, diverse and passionate service design community and UCD family and help to mature the profession capability, standards and service design design 
