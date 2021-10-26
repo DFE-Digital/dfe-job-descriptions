@@ -1,3 +1,7 @@
+Lewis is here to walk you through the step by step process.
+You'll be able to add your job descriptions/ tweak exisiting in no time.
+
+
 | Steps | GitHub Support video  | 
 |--|--|
 | 1 |[Fork a repro](https://www.youtube.com/watch?v=hv-BJEUUA3A)  | 
