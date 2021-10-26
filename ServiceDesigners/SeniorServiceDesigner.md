@@ -33,31 +33,22 @@ You'll be an experienced designer who works with minimal support and can influen
 
 ### At this level, you:
 
- - will work with service managers and programme directors to develop design concepts
+ - will work with service managers and programme directors to develop design concepts, that cut across departments where necessary
  - may have responsibility across complex services
- - will help set direction and embed good practice within teams
+ - will help set direction and embed good practice within teams (Mentor and coach individuals and service teams, support education including inductions, training and workshops.)
  - will make important decisions based on research and understand how this research impacts others
-
-
- -   provide service design leadership to a specific service area, such as services for teachers or social carers. Work with stakeholders and senior leaders to create the service vision and build a roadmap to deliver outcomes.
 -   Contribute and lead to help shape a vibrant, diverse and passionate service design community and UCD family and help to mature the profession capability, standards and service design design 
--   work closely with other departments to make sure we have a cohesive approach to service design as well as to design services that cut across departments where necessary
 -   prioritise understanding the needs and behaviour of users and know how to use this insight to underpin and drive the work that we do 
--   Actively promote the design perspective in discussions with teams and stakeholders. Mentor and coach individuals and service teams, support education including inductions, training and workshops. 
--   lead discussions at a senior departmental level and successfully negotiate change to support the delivery of better services 
 -   communicate effectively to share the as-is and the future vision of the service, working closely with service owners to help define the backlog, pulling together aspects such as user research, business design, data science, policy intent and key metrics 
--   analyse failure within a service and identify root causes for that failure 
--   work with other specialists to design and create organisational or financial structures that support the delivery of new services   
--   lead discussions at a senior level and successfully negotiate policy and legislative change to support new services   
--   map/prototype end-to-end services and understand how they fit into wider societal, service, system and organisational contexts
--   create and rapidly iterate both digital and non-digital service prototypes 
+-   analyse failure within a service and identify root causes for that failure  
+-   negotiate policy and legislative change to support new services   
+-   map/prototype end-to-end services and understand how they fit into wider societal, service, system and organisational contexts 
 -   identify and design new service patterns and standards that scale 
 -   coach, mentor and train other designers, helping set and communicate good practice to improve quality and consistency across DfE’s transformation programmes
 -   know how to design inclusive, accessible digital services that solve a whole problem for users
 -   understand the existing system of your service and work with teams to target improvements and cost reductions
 -   help people and teams overcome complexity, running and synthesising workshops to create clarity, alignment and direction
 -   analyse failure within services and identify root causes for failures
--   coach, mentor and train other designers, helping set and communicate good practice to improve quality and consistency across DfE’s transformation programmes
     
 
 ### Essential skills and expertise for this role are:
