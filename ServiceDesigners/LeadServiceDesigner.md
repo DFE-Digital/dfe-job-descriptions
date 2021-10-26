@@ -4,13 +4,13 @@ It’s an exciting time to be joining DfE Digital and Technology. We’re transf
 
 DfE’s Digital and Technology team is constantly growing and a key 2021 priority is to respond to the needs of children and students. You can find out more in Chief Digital and Technology Officer Emma Stace’s blog, [DfE’s Digital and Technology strategy.](https://dfedigital.blog.gov.uk/2021/04/21/strategy/)
 
-We’re looking for a lead service design to join our Vulnerable Children and Families portfolio's. Our mission is to drive the delivery of user-centred policies and services that support the department’s strategic priorities to:
--   Provide the best start in life through high-quality early education and childcare to raise standards and help parents to work 
--   Support the most disadvantaged and vulnerable through high quality local services so that no one is left behind.
--   Support social workers to develop in their careers and can do their best work with children and families.  
--  Work with Local Authorities to make the most of the opportunities that digital and technology can offer to improve their services,
+We’re looking for a lead service design to join our [Name of portfolio]. Our mission is to drive the delivery of user-centred policies and services that support the department’s strategic priorities to:
+-   Policy Outcome
+-   policy Outcome
+-   Delivery outcome  
+-   Delivery outcome
     
-You will be joining a friendly, motivated and multidisciplinary team with an outward outlook and strong commitment to support children and families. You’ll be working with people who value user research and design and you’ll be creating work you’ll feel proud of.
+You will be joining a friendly, motivated and multidisciplinary team with an outward outlook and strong commitment to supporting [users ie children and families.] You’ll be working with people who value user research and design and you’ll be creating work you’ll feel proud of.
 
 # Job description
 
