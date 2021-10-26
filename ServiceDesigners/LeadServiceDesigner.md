@@ -18,7 +18,12 @@ As a Lead Service Designer, you will be leading a portfolio of services and prod
 
 We want your design thinking to help us with our mission to build user-centred services, accessible for everyone. You will work in multidisciplinary teams, alongside user researchers, developers, data analysts, policy experts and others. You will help to deliver excellent, user-centred public and behind-the-scenes services. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government. You will identify opportunities and gaps for end users and the organisation across different touchpoints, to help users complete tasks without friction.
 
-### As a Lead Service Designer you will :
+As a lead service designer, you will be an expert practitioner who influences and mentors others. 
+
+### At this level you will:
+ 
+ - work with service managers and programme directors to develop design concepts
+ - set direction, assure the quality of design delivery across teams and lead multiple or highly complex services
 -   provide service design leadership to a specific service area, such as services for teachers or social carers, Work with stakeholders and senior leaders to create the service vision and build a roadmap to deliver outcomes.
 -   provide direction and contribute more widely to the future of service design as a profession
 -   work closely with other departments to make sure we have a cohesive approach to service design as well as to design services that cut across departments where necessary
