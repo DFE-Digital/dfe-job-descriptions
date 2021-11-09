@@ -18,52 +18,33 @@ You will be working in [for example] the Schools Business Professionals digital 
 
 Your main responsibilities will include:
 
-  
-
 -   Defining, maintaining, and championing the technical strategy for a service or group of services - keeping up to date with the latest technologies and trends, whilst delivering working software early and often.
-    
-
-  
+   
 
 -   Working with technical specialists in your service(s), on problems that require broad architectural thinking.
-    
-
-  
+     
 
 -   Defining how to build and operate user-centred, open source web systems in an agile environment, to serve a variety of citizen and government needs.
     
 
-  
-
 -   Being responsible for the technical design and development of your service(s), including how they interact with their surroundings, and how they evolve over time.
     
-
-  
 
 -   Challenging entrenched practices and influencing decision-makers, looking for deeper underlying problems to solve, and larger opportunities for digital transformation.
     
 
-  
-
 -   Communicating the vision for government services to developers and non-developers alike, working in multi-disciplinary teams that bring policy and delivery together.
     
-
-  
 
 -   Playing an active role in the DfE Technical Architecture community, where you will share knowledge of tools and techniques, as well as joining related communities of practice and events where appropriate, such as product, user research, design, platforms, security, etc.
     
 
-  
-
 -   Helping to build a diverse, inclusive culture across the technical architecture community.
     
 
-  
-
 -   Working with your Lead Technical Architect, colleagues and peers on profession-based activities (and cross-profession), such as defining standards and guidance around best practice.
     
-
-  
+ 
 Selection Criteria:  
 It is essential that you can demonstrate the following experience in your application and at the first stage interview:
 
@@ -73,17 +54,11 @@ It is essential that you can demonstrate the following experience in your applic
 -   Experience of practices such as Test-Driven Development (TDD), continuous integration, automated deployment pipelines, version control with Git and DevOps.
     
 
-  
-
 -   Experience working with cloud-first architectures and how to build applications that take advantage of the opportunities they offer.
     
 
-  
-
 -   Experience of software development in either Ruby, .Net (or similar).
     
-
-  
 
 -   Knowledge of open source principles and technologies.
     
@@ -100,7 +75,6 @@ The following essential criteria will also need to be demonstrated at the second
     
 
   
-
 It is desirable that you demonstrate the following:  
   
 
