@@ -10,7 +10,7 @@ As a Technical Architect, you will be designing and building services for a dive
 
 You will be working in [for example] the Schools Business Professionals digital delivery portfolio, which includes services like Get help buying for your school, Start and manage an academy and Build or repair a school.
 
-## Job Description
+## The role
 
 Your main responsibilities will include:
 
@@ -24,7 +24,7 @@ Your main responsibilities will include:
 - Helping to build a diverse, inclusive culture across the technical architecture community.
 - Working with your Lead Technical Architect, colleagues and peers on profession-based activities (and cross-profession), such as defining standards and guidance around best practice.
 
-## Selection Criteria
+## Selection criteria
 It is essential that you can demonstrate the following experience in your application and at the first stage interview:
 
 - Experience working in technical teams and delivering user-centred services in an agile environment.
@@ -45,7 +45,7 @@ It is desirable that you demonstrate the following:
 - Experience of applying the UK Government Service Standard and service assessment.
 - Experience of mentoring and supporting colleagues in multi-disciplinary teams, one-to-one or in groups.
 - Ability to work with stakeholders to produce effective strategies for technology choices, using the most appropriate languages, frameworks and tools to meet user and business needs.
-- 
+
 Please note that desirable criteria will only be considered to make an informed decision in the event of a tie.
 
 ## Selection process details
@@ -62,7 +62,7 @@ Applications will be sifted by a panel who will look further at the evidence pro
 
 Depending on the number of candidates who meet the minimum pass mark at sift, you may be invited to a first stage interview.
 
-### First Stage Interview
+### First stage interview
 
 Longlisted candidates may be invited to attend a preliminary interview, which will be conducted via telephone, typically involving a commitment of up to 1 hour. The interview will consist of a series of questions to further assess the essential criteria listed in this advert.
 
@@ -70,8 +70,8 @@ As interviews will be conducted via telephone, please ensure that you are in a s
 
 If successful, candidates will then be invited to a second interview, which will be conducted via a video call.
 
-### Second Stage Interview
+### Second stage interview
 
-At this interview, candidates will be asked to provide evidence of the essential skills, specified as being assessed at the second stage interview, under the *Selection Criteria* heading.
+At this interview, candidates will be asked to provide evidence of the essential skills, specified as being assessed at the second stage interview, under the **Selection Criteria** heading.
 
 Feedback will only be provided if you attend an interview.
