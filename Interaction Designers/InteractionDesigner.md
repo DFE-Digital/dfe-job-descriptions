@@ -1,4 +1,4 @@
-#  WIP Interaction Designer
+# Interaction Designer
 ## Summary  
 It’s an exciting time to be joining DfE Digital and Technology. We’re transforming how the government makes policy and services for young people, teachers, adult learners and the social care system. 
 
