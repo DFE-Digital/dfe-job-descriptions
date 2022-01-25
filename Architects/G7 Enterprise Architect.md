@@ -1,28 +1,30 @@
 # Enterprise Architect
 
+## Summary
+
+These are exciting times at the Department for Education. We are transforming to become a user-centred organisation, delivering better outcomes for all our users.
+
+[This video](https://www.youtube.com/watch?v=dgS-yJKR4Z4) gives an insight into the culture which is being developed within some of the teams.
+
+As an Enterprise Architect, you will​ ​partner with senior DfE business, strategy and policy leads and stakeholders across the department, to demonstrate the business value of Enterprise Architecture as an enabler of strategy formulation, business change and technology innovation. You will collaboratively develop business capability models and roadmaps to facilitate discussion and decision making
+
+You will be working in [for example] the Schools Business Professionals digital delivery portfolio, which includes services like Get help buying for your school, Start and manage an academy and Build or repair a school.
+
 ## The role
 
 All​ ​architects​ ​within​ ​Government​ ​are​ ​​responsible​ ​for​ ​the​ ​design​ and build​ of​ both solution and technical​ ​architectures​. It is their job to communicate ​​the​ ​vision​ ​for​ ​government services​ ​to​ ​developers​ ​and​ ​non-developers​ ​alike.​ ​You’ll​ ​thrive​ ​using​ ​agile​ ​methods​ ​and enjoy​ ​working​ ​with​ ​departments​ ​and​ ​in​ ​multidisciplinary​ ​teams.​ ​Above​ ​all,​ ​you’ll​ ​want​ ​to make​ ​government​ ​better,​ ​which​ ​may​ ​sometimes​ ​involve​ ​challenging​ ​the​ ​status​ ​quo.
-
-  
-
-As an Enterprise Architect, you will​ ​partner with senior DfE business, strategy and policy leads and stakeholders across the department, to demonstrate the business value of Enterprise Architecture as an enabler of strategy formulation, business change and technology innovation. You will collaboratively develop business capability models and roadmaps to facilitate discussion and decision making.
-
-  
-
+ 
 You will lead analysis of the organisation’s future-state capabilities and current / future IT environment, to detect critical deficiencies and recommend solutions for improvement, driving the organisation forward. To do this, you will have​ ​a​ ​good​ ​understanding​ ​of​ ​a​ ​broad​ ​range​ ​of​ ​technologies and​ ​the ability​ ​to​ ​take​ ​a​ ​balanced​ ​approach​ ​to​ ​technology​ ​selection. You’ll be able​ ​to​ ​converse​ ​easily​ ​with​ ​and​ ​translate​ ​between​ ​non-technical​ ​stakeholders and​ ​technical​ ​practitioners. ​ ​You’ll be able to​ ​switch​ ​between​ ​different​ ​problems​ ​and responsibilities​ ​and​ ​be directly​ ​involved​ ​in​ ​service​ ​delivery.
 
 You could be working on anything from transforming core technology services to architecting substantial digital services [for example] the Schools and Curriculum digital delivery portfolio, which includes services like Get help buying for your school, Start and manage an academy and Build or repair a school. Other examples of our services include [​​Find​ ​an apprenticeship](https://www.findapprenticeship.service.gov.uk/apprenticeshipsearch)​,​ ​​[School​ ​performance​ ​tables](https://www.gov.uk/school-performance-tables)​,​ ​​[Get​ ​information​ ​about​ ​schools](https://get-information-schools.service.gov.uk/)​ and​ ​​[Get​ ​into teaching](https://getintoteaching.education.gov.uk/). O​ur​​ services​ ​are​ ​​developed​ ​by​ ​multi-disciplinary​ ​teams​ ​using ​a​ ​variety of​ technologies​ - ​​you​ ​would​ ​ideally​ ​have​ ​experience​ ​across multiple platforms, technologies and delivery methodologies.
 
-You’ll​ ​undertake​ ​structured​ ​analysis​ ​of​ ​technical​ ​issues,​ ​translating​ ​this​ ​analysis​ ​into ​designs​ ​that​ ​describe​ ​a​ ​solution. ​You​ ​can​ ​be​ ​consulted​ ​on​ ​design​ ​and​ ​are capable​ ​of​ ​providing​ ​design​ ​patterns. ​ ​You​ ​can​ ​identify​ ​the​ ​deeper​ ​issues​ ​that​ ​need fixing​ ​and​ ​look​ ​for​ ​opportunities​ ​to​ ​collaborate​ ​and​ ​reuse​ ​components,​ ​communicating with​ ​both​ ​technical​ ​and​ ​non-technical​ ​stakeholders. Collaborating with other DfE leaders, you will help build an architecture capability that can deliver the DfE priorities, as well as supporting capability building across government.
-
-  
+You’ll​ ​undertake​ ​structured​ ​analysis​ ​of​ ​technical​ ​issues,​ ​translating​ ​this​ ​analysis​ ​into ​designs​ ​that​ ​describe​ ​a​ ​solution. ​You​ ​can​ ​be​ ​consulted​ ​on​ ​design​ ​and​ ​are capable​ ​of​ ​providing​ ​design​ ​patterns. ​ ​You​ ​can​ ​identify​ ​the​ ​deeper​ ​issues​ ​that​ ​need fixing​ ​and​ ​look​ ​for​ ​opportunities​ ​to​ ​collaborate​ ​and​ ​reuse​ ​components,​ ​communicating with​ ​both​ ​technical​ ​and​ ​non-technical​ ​stakeholders. Collaborating with other DfE leaders, you will help build an architecture capability that can deliver the DfE priorities, as well as supporting capability building across government. 
 
 You will have oversight of the work of architecture community members on projects, programmes and business as usual activities, ensuring work is of an appropriate standard. Where appropriate, you should lead by example and positively resolve issues collaboratively.
 
 There will be opportunities to contribute to the development of the pan-government community and wider technology leadership across government.
 
-### Key responsibilities
+## Key responsibilities
 
 -   Working across a programme or group of projects aligned to a portfolio or domain, across DfE, to understand the needs of the delivery programmes and projects, defining suitable strategies, architectures and roadmaps to meet those needs.
     
@@ -47,10 +49,7 @@ There will be opportunities to contribute to the development of the pan-governme
 -   Supporting the architecture community in DfE, ensuring a diverse group of people feel welcome, respected and supported, as well as supporting your counterparts in other parts of government in building an active community that everyone in architecture and leadership across government can belong to and participate in.
     
 
-  
-  
-
-### Selection criteria
+## Selection criteria
 
 Successful candidates should be able to demonstrate the following essential skills and experience:
 
@@ -73,8 +72,6 @@ Successful candidates should be able to demonstrate the following essential skil
 -   Experience in the use of cloud technologies, cloud strategies and in architecting solutions for the cloud, as well as big data, analytics, artificial intelligence, Internet of Things and automation.
     
 
-  
-
 As part of our continued drive to build capability across our teams, the following skills would be an advantage, but are not essential:
 
 -   Technical knowledge and skills across several domains, which may include software design, development, engineering and integration, cloud-native services, productivity tools, applications, infrastructure, data solutions, business / service design
@@ -92,28 +89,23 @@ As part of our continued drive to build capability across our teams, the followi
 -   Architecture qualifications or certifications (such as TOGAF, Business Architecture Guild)
     
 -   Line management experience, including coaching, mentoring and developing yourself & others
-    
+      
 
-  
-  
+### Selection process details 
 
-### Selection process details
-
-  
-
-#### Application
+### Application
 
 Candidates should complete the advertised Civil Service Jobs application by submitting a completed application form and CV, explaining how they meet the essential criteria specified under the Selection Criteria heading in the advert.
 
 CV details need to be included in the template within the application form which is accessible through the Civil Service Jobs advert. Emailed CVs will not be considered.
 
-#### Sift
+### Sift
 
 Applications will be sifted by a panel who will look further at the evidence provided. The CV will be assessed in-line with the essential criteria listed in the advert.
 
 Depending on the number of candidates who meet the minimum pass mark at sift, you may be invited to a first stage interview.
 
-#### First Stage Interview
+### First Stage Interview
 
 Longlisted candidates may be invited to attend a preliminary interview, which will be conducted via telephone, typically involving a commitment of up to 1 hour. The interview will consist of a series of questions to further assess the essential criteria listed in this advert.
 
@@ -121,19 +113,13 @@ As interviews will be conducted via telephone, please ensure that you are in a s
 
 If successful, candidates will then be invited to a second interview, which will be conducted via Microsoft Teams Video.
 
-#### Second Stage Interview
-
-  
+### Second Stage Interview
 
 At this interview, candidates will be asked to provide further evidence of the essential skills listed in this advert.
 
 Interviews may also include an additional scenario-based or presentation exercise.
-
   
-
 Interview questions will be aligned with Civil Service [Success Profiles](https://www.gov.uk/government/publications/success-profiles), assessing the following behaviours, along with your strengths, technical experience, and suitability for the role:
-
-  
 
 -   Seeing the bigger picture
     
@@ -142,8 +128,5 @@ Interview questions will be aligned with Civil Service [Success Profiles](https:
 -   Leadership
     
 -   Communicating and influencing
-    
-
-  
 
 Feedback will only be provided if you attend an interview.
