@@ -7,6 +7,7 @@
 - Working across government and the sector to ensure a cohesive approach to the specialism, create opportunities for collaboration through existing networks – or setting up new networks where they don’t exist
 - Hold authority to ensure that specialists are able to contribute towards building the profession and participate in community, backed up by DDaT Committee.\*
 - Raising the profile of the profession across the Department
+- Grow the capability through attraction strategy and rentention strategy
 
 ## Expert practitioner
 - Is the expert practitioner in their field with a high level of knowledge of current and new methodologies/strategies/technologies/techniques and a track record of delivery.
@@ -20,6 +21,8 @@
 ## Quality and standards
 - Creating accessible knowledge, standards, and practice to set good conditions for people in their professions to work effectively, and ensuring they are well enforced through service assessments
 - Being the guardian of quality and standards of the practitioners within the profession and the principles and policies of the profession
+- Lead by example
+- Grow assessors in the profession to assurance in-house/in-delivery services. (Self-sustaining professions) 
 
 ## People
 - Building and growing a forward-thinking and diverse team within the profession
