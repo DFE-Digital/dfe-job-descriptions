@@ -2,10 +2,10 @@
 host: 
 
 # Header-related options
-show_govuk_logo: true
+show_govuk_logo: false
 service_name: DfE Digital job descriptions
-service_link: https://www.larry-the-cat.service.gov.uk
-phase: Beta
+service_link: "#"
+phase: Alpha
 
 # Links to show on right-hand-side of header
 header_links:
