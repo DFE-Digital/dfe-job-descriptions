@@ -1,0 +1,11 @@
+---
+title: Software Developers
+weight: 10
+---
+
+# Software Developers
+<ul>
+<% current_page.children.each do |page| %>
+  <li><%= link_to page.data.title, page.url %></li>
+<% end %>
+</ul>
