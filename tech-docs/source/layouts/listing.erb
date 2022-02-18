@@ -1,4 +1,7 @@
 <% wrap_layout :layout do %>
   <h1><%= current_page.data.title %></h1>
+  <blockquote>
+    <%= partial "shared/introduction" %>
+  </blockquote>
   <%= yield %>
 <% end %>
