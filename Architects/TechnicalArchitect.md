@@ -2,9 +2,17 @@
 
 ## Summary
 
-These are exciting times at the Department for Education. We are transforming to become a user-centred organisation, delivering better outcomes for all our users.  
+These are exciting times at the Department for Education. In 2022 we'll continue to build services for all our users – children, adults, and those in social care.  
 
-[This video](https://www.youtube.com/watch?v=dgS-yJKR4Z4) gives an insight into the culture which is being developed within some of the teams.  
+Our diverse and inclusive culture reflects the society we live in. This helps us to achieve better outcomes for all our users. See what our team have to say in our  [DfE digital culture video](https://www.youtube.com/watch?v=dgS-yJKR4Z4).  
+
+We work in multi-disciplinary teams using Agile methods to innovate and radically improve services that:
+
+- Raise education standards and provide the best start in life for children
+- Support disadvantaged and vulnerable children and young people
+- Drive economic growth
+
+You can read more about our strategy on the [DfE digital and technology strategy blog](https://dfedigital.blog.gov.uk/).
 
 As a Technical Architect, you will be designing and building services for a diverse set of users, including citizens, teachers, social workers, and school professionals.  
 
@@ -35,7 +43,7 @@ It is essential that you can demonstrate the following experience in your applic
 
 In addition, the following essential criteria will also need to be demonstrated at the second interview stage:
 
-- The ability to work with technical and non-technical stakeholders to achieve agreement on technical plans. 
+- The ability to work with technical and non-technical stakeholders to achieve agreement on technical plans.
 - The ability to look beyond immediate technical problems and identify the wider implications.
 - Practical knowledge at many levels of the web stack, from front-end code, down to infrastructure and networking.
 
@@ -48,7 +56,7 @@ It is desirable that you demonstrate the following:
 
 Please note that desirable criteria will only be considered to make an informed decision in the event of a tie.
 
-## Selection process details
+## Selection process
 
 ### Application
 
