@@ -1,103 +1,70 @@
 # Interaction Designer
 ## Summary  
-It’s an exciting time to be joining DfE Digital and Technology. We’re transforming how the government makes policy and services for young people, teachers, adult learners and the social care system. 
+You’ll be joining at an exciting time for DfE Digital and Technology as we are transforming to become a user centred organisation, delivering better outcomes for all our users through agile and iterative design delivery and continuous improvement. 
 
-We’re looking for Senior Interaction Designers to help set direction and embed good practice within teams and who are committed to using design to deliver a better experience and better outcomes for users of government services. 
+We’re looking for Interaction Designers who are passionate about designing and delivering accessible services that really matter for users of government services. As an Interaction Designer you will work out the best way for users to interact with services, in terms of both overall flow and individual design elements. You will play an essential role in delivering successful services which make a difference to teachers’ and pupils’ lives. 
 
-We're creating a phenomenal place to work by offering: 
+We're offering a great place to work by offering:
 
-* an environment with flexible working options including flexi-time  
-* a culture encouraging inclusion and diversity 
+* a challenging and fulfilling career where you can use your skills to make a genuine difference to society
+* flexible working options, including flexi-time, ensure a healthy work-life balance
+* learning and development tailored to your role and a personal L&D budget
+* a culture encouraging diversity and inclusion
 * an employer pension contribution of up to 27%  
-* a generous annual leave allowance up to 30 days after 5 years of service  
+* a generous annual leave allowance  
 * modern and effective collaboration tools  
 * a wide variety of staff support networks including a Women's Network, BAME Network, Wellbeing Network, and many more 
 
+Join us, and together we will create a world-class education system, and create opportunities where everyone can reach their potential.
+
 ## About the team
+We work in multidisciplinary teams that deliver outcomes for children and families, schools and teachers. There are also teams that deliver internal DfE products that help us deliver better, more joined up services. We’re dedicated to making a difference to these groups by building user-centred digital services.
+We have a positive working culture and are committed to helping you do your best work. We value diversity and inclusion and provide a supportive environment to help you fulfil your potential.  
 
-This is an exciting opportunity in the Teaching Vacancies team, which sits within the Teacher Services division.
-
-Our mission in Teacher Services is to ensure excellent teachers for every child. We support candidates on their journey to become a teacher - from helping them find the right teacher training course to making it easy for them to find a teaching role through Teaching Vacancies.
-
-[Teaching Vacancies](https://teaching-vacancies.service.gov.uk) officially launched in April 2019. It is a free job listing service which helps schools to find the best new teachers, and saves schools time and money on recruitment. We also support teachers to easily search and apply for their next position. Teaching Vacancies is now the largest source of primary teaching jobs listed directly by schools in England. It’s also the second largest for secondary teaching jobs. Over 80% of schools are signed up to use the service.
-
-Last year, our job listings were viewed over 2.5 million times by potential jobseekers. The challenge now is to build on our success by encouraging more schools and jobseekers to use Teaching Vacancies, and iteratively improving the service to better meet their needs.
-
-This is our latest blog post about Teaching Vacancies:
-https://teaching.blog.gov.uk/2021/10/25/how-school-leaders-can-benefit-from-a-free-recruitment-service/
-
-## Responsibilities
-
-In the role of senior interaction designer you will: 
-
-* design accessible services across channels, devices, browsers, and platforms that deliver real value for our users  
-understand user needs and track interactions across departmental and organisational boundaries  
-* lead work within a multidisciplinary team to turn research into user-centred services, whilst collaborating with user researchers, business analysts and developers   
-* create and rapidly iterate low and high fidelity prototypes to test and communicate ideas  
-* support teams and drive the organisation to take a design thinking approach
-* ensure that the design of both staff and public-facing services is consistent, both internally and with the rest of GOV.UK 
-* welcome constructive criticism and be able to constructively review the work of others 
-* grow and contribute to design community within DfE and across government  
-* collaborate with designers across government to identify and design scalable, cross-government design patterns and standards
-* train and mentor other designers  
-* highlight chances to create benchmarks and to identify potential areas of improvement
+## Job description
+As an interaction designer, you will be a confident and competent designer who is able to develop designs based on evidence of user needs and organisational outcomes. At this level, you:
+ 
+* create evidence and data driven design outputs and outcomes.
+* can work both independently and collaboratively within an agile multidisciplinary team, to turn research and user needs into user-centred services.
+* design accessible services across channels, devices, browsers, and platforms that deliver real value for our users.
+* create and rapidly iterate low and high fidelity prototypes to test,validate and communicate  ideas.
+* welcome constructive criticism and be able to constructively review the work of others.
+* contribute to the design community within DfE and across government.
 
 [Find out about our Interaction Designers](https://www.gov.uk/guidance/interaction-designer). 
 
 ## Essential skills and experience
+You will have demonstrable passion for interaction / UX design, with the following skills or experience in:
 
-You’ll be able to demonstrate that you: 
-
-* have extensive understanding of interaction and user interface design  
-* have industry or government experience in designing elegant, accessible, responsive user interfaces  
-* be confident in designing at low and high fidelity, for different screen sizes  
-* have a broad range of experience prototyping interactions  
-* have an ability to talk about, and advocate for, user-centered design in a way that other people understand  
-* understand the importance of working with research and business analysis to inform design decisions  
-* have the ability to lead the design direction and advocate for user centered design in communities of practice 
-* have experience of working collaboratively in a dynamic agile environment and using agile tools  
-* have experience in removing complexity from services and solving problems  
-* can identify and understand constraints and can communicate these and work within them  
-* are able to manage stakeholder expectations and facilitate difficult discussions with a wide range of stakeholders  
+* **user focus**. You understand the difference between user needs and user wants and know how to collaborate with user researchers to include all users. 
+* **prototyping**. You are confident in designing prototypes at different fidelity levels, removing complexity to create elegant, accessible and responsive services and approach prototyping as a team activity.
+*	**evidence and context-based design**. Your approach to problem-solving and the way you demonstrate design rationale is informed by insights and research.
+*	**accessibility**. You understand the importance of inclusive design and how to design with accessibility in mind. You are familiar with the WCAG 2.1 guidelines and can design to meet AA standards.
+*	**communication skills**. You can listen, interpret and manage stakeholder needs and facilitate difficult discussions. You are comfortable presenting design work, explaining the rationale, and are able to advocate user-centred design.
+*	**collaboration**. You can work collaboratively within multi-disciplinary groups to inform design decisions and deliver usable services by facilitating the design process, participating in research activities and running workshops.  
 
 ## Desirable Skills and Experience
+These skills and experience are desirable, though we can help develop them. It would be preferable if you had experience in:
 
-These skills and experience are desirable, though we can help develop them. It would be preferable if you had experience:
- 
-* using the GOV.UK prototype kit  
-* prototyping in code (HTML and CSS)  
-* planning and facilitating workshops
-* training and developing more junior designers
+* **working in an agile environment** to deliver services, adapt, reflect and be resilient. 
+*	**digital perspective**. You are responsive to changes in technology, adapting your approach accordingly. You can make decisions to meet user needs and understand the importance of assisted digital.
+*	**prototyping in code (HTML and CSS)**. You know how to code for different screen sizes and can version and host a prototype. 
+*	**using the GOV.UK prototype kit** to create interactive prototypes to validate and iterate designs.
+*	**planning and facilitating workshops** with peers and stakeholders, keeping them engaged and leading to design outcomes and outputs.  
 
-Desirable criteria will only be assessed in the event of a tie-break situation to make an informed decision. 
+Desirable criteria will only be assessed in the event of a tie-break situation to make an informed decision.
 
-## Technical and experience skills
-We’ll assess you against these skills during the selection process:
-
-* prototyping 
-* user focus 
-* evidence and context based design 
-* leading the design experience
-* working within constraints 
+If you’re not sure how your experience lines up, please drop any questions over to [HR email address](). We’re a friendly bunch and here to help. 
 
 ## Benefits 
+* applicants currently holding a permanent post in the Civil Service should note that, if successful, their salary on appointment would be determined by the Department’s transfer/promotion policies.  
 
-Applicants currently holding a permanent post in the Civil Service should note that, if successful, their salary on appointment would be determined by the Department’s transfer/promotion policies. As a member of the DfE, you will be entitled to join the highly competitive Civil Service Pension Scheme, which many experts agree is one of the most generous in the UK.  
+* You will have 25 days leave, increasing by 1 day every year to a maximum of 30 days after five years’ service. In addition, all staff receive the Queen’s Birthday privilege holiday and 8 days’ bank and public holidays.  
+* flexible working arrangements, such as job sharing, term-time working, flexi-time, and compressed hours.  
+* excellent professional development opportunities. 
 
-You will have 25 days leave, increasing by 1 day every year to a maximum of 30 days after five years’ service. In addition, all staff receive the Queen’s Birthday privilege holiday and 8 days’ bank and public holidays.  
 
-We offer flexible working arrangements, such as job sharing, term-time working, flexi-time, and compressed hours.  
-
-As an organisation, which exists to support education and lifelong learning, we offer our staff excellent professional development opportunities. 
-
-## Things you need to know
- 
-### Security
- 
-Successful candidates must pass a disclosure and barring security check. 
-People working with government assets must complete [basic personnel security standard checks](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard). 
-
-### Selection process details 
+## Selection process details 
 
 This vacancy is using [Success Profiles](https://www.gov.uk/government/publications/success-profiles), and will assess your Experience and Technical skills. 
 
@@ -109,19 +76,17 @@ The sift will be based on your CV and Personal Statement, and how this meets the
 
 **Stage Two - The Portfolio**
  
-From receiving sift results, you will have [timeframe] to submit your portfolio. This is anticipated to take place in [month]
+If successful on the above stage, you will be contacted to send your portfolio that demonstrates your interaction design experience. 
 
-Your portfolio should contain 3-4 relevant case studies that demonstrate your interaction design experience. Your portfolio will be assessed on: 
-* the ways you have developed or improved digital services, to better meet the needs of users  
-* how you have implemented human-centric design methodologies into your design  
-* your approach to problem-solving and the way you demonstrate the rationale behind design decisions  
-* examples of how your designs take accessibility requirements into account  
-* if your portfolio meets the requirements, you will be invited to interview.  
+Your portfolio will be assessed on the essential criteria.
+
+If your portfolio meets the requirements, you will be invited to interview.
 
 **Stage Three - The Interviews**
 
-The interview will be a blended approach based on technical and experience questions. The experience questions will be aligned to the essential criteria.  
-In the interview, you will be asked to deliver a presentation on one of the case studies from your portfolio.
+The interview will include two parts:
+* 10 minutes presentation of one of the case studies from your portfolio demonstrating your design thinking approach and technical skills against the essential criteria for the role.
+*	you will be asked experience and technical skills questions aligned to the essential criteria.
 
 Interviews are expected to take place in [date here].  
 
