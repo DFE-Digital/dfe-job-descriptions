@@ -21,4 +21,5 @@ GovukTechDocs.configure(self)
 
 configure :build do
   set :http_prefix, '/dfe-job-descriptions'
+  set :govuk_assets_path, '/dfe-job-descriptions/assets/govuk/assets/'
 end
