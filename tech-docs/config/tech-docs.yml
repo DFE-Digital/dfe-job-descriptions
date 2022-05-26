@@ -3,7 +3,7 @@ host:
 
 # Header-related options
 show_govuk_logo: false
-service_name: DfE Digital job descriptions
+service_name: DfE DDaT job descriptions
 service_link: "#"
 phase: Alpha
 
