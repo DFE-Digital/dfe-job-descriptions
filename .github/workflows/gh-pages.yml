@@ -4,7 +4,7 @@ name: Deploy Middleman to GH Pages
 
 on:
   push:
-    branches: [github-pages]
+    branches: [main]
 
 jobs:
   build:
