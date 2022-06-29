@@ -1,0 +1,7 @@
+<% wrap_layout(:layout) do %>
+  <h1><%= current_page.data.title %></h1>
+  <% current_page.children.sort_by { |p| p.data.weight }.each do |page| %>
+    <li><%= link_to page.data.title, page.url %></li>
+  <% end %>
+<% end %>
+
