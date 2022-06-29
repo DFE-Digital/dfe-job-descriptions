@@ -1,0 +1,51 @@
+# Apprentice Developer
+Grade: HEO
+
+These are exciting times at the Department for Education. We are transforming to become a user centred organisation, delivering better outcomes for all our users through agile and iterative software development and continuous improvement.
+
+You will work with user researchers, product managers, designers, business analysts, delivery managers and content specialists as part of a multi-disciplinary team to directly deliver better outcomes for users.. You will innovate to radically transform how public services are delivered and improved.
+
+As a junior developer you will be learning the latest technologies and trends, whilst delivering working software early and often. Working as part of a multi-disciplinary team, you’ll develop your skills to build a career as a software developer.
+
+Read more about software development on the 
+[DfE Digital blog](https://dfedigital.blog.gov.uk/2020/10/06/software-developers/).
+
+## You will:
+
+ * Be responsible for the development of features of Government services
+
+ * Gain experience with modern software development practices such as Test-Driven Development, CI/CD, and DevOps as well as modern development workflows using GitHub and Azure DevOps
+
+ * Learn to work in an Agile environment
+
+ * With the support of senior developers and the wider community, learn to build user-centred, open source, RESTful web systems to serve a variety of citizen and government needs
+
+ * Share knowledge of tools and techniques with the wider team and community, both developers and non-developers
+
+ * Help build and maintain a diverse, inclusive culture across the development community, growing awareness, inclusivity, and balance.
+    
+
+## You’ll have:
+
+### Essential:  
+
+ * Enthusiasm to learn new things   
+
+ * An interest in software development, ideally with some experience of C#.Net, Ruby, or similar.    
+
+ * Ability to use automated tests to continuously validate your work.    
+
+ * Enthusiasm for sharing knowledge and working in a multi-disciplinary team.    
+
+ * Ability to work closely with team members in a collaborative environment.   
+
+### Desirable:
+
+ * Experience using version control (ideally with Git).
+    
+
+### Technical skills:
+
+We’ll assess you against these technical skills during the selection process
+
+ * A pragmatic approach to problem solving
