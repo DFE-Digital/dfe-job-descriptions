@@ -1,8 +1,7 @@
-# ./github/workflows/deploy.yml
-
 name: Deploy Middleman to GH Pages
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -41,11 +40,11 @@ jobs:
 
       - name: Build Middleman
         run: |
-          bundle exec middleman build
+          bundle exec middleman build --clean
 
       - name: Deploy to Github Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: tech-docs/build
+          publish_dir: ../tech-docs/build
           allow_empty_commit: true
