@@ -1,7 +1,10 @@
-name: Build for PR
+name: Deploy Middleman to GH Pages
 
 on:
+  workflow_dispatch:
   pull_request:
+  push:
+    branches: [main]
 
 jobs:
   build:
@@ -38,3 +41,17 @@ jobs:
       - name: Build Middleman
         run: |
           bundle exec middleman build --clean
+
+      - name: Copy output
+        working-directory: .
+        run: |
+          pwd
+          mkdir output
+          cp -r tech-docs/build/* output
+
+      - name: Deploy to Github Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./../output
+          allow_empty_commit: true
