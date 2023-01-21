@@ -31,7 +31,7 @@ Read more about software development on the
 
  * Enthusiasm to learn new things   
 
- * An interest in software development, ideally with some experience of C#.Net, Ruby, or similar.    
+ * An interest in software development, ideally with some experience of C#/.Net, Ruby, or similar.    
 
  * Ability to use automated tests to continuously validate your work.    
 
