@@ -1,4 +1,4 @@
-name: Deploy Middleman to GH Pages
+name: Build Middleman to GH Pages
 
 on:
   workflow_dispatch:
