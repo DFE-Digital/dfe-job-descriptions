@@ -43,8 +43,10 @@ Read more about software development on the
  * Experience championing practices such as Test-Driven Development, CI/CD, and DevOps as well as modern development workflows, ideally using GitHub
  
  * A cloud-first approach and experience of IaaS and PaaS solutions as well as understanding infrastructure-as-code and containerisation
+ 
+ * Experience of good software design principles such as OOD, SOLID and design patterns
 
- * Experience of good software design principles such as OOD, SOLID, RESTful API design and loosely coupled microservices architectures
+ * Experience of RESTful API design and loosely coupled microservices architectures
 
  * A good understanding of web application security and awareness of the OWASP Top 10 security vulnerabilities
 
