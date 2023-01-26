@@ -4,7 +4,7 @@ host:
 # Header-related options
 show_govuk_logo: false
 service_name: DfE DDaT job descriptions
-service_link: "#"
+service_link: "https://dfe-digital.github.io/dfe-job-descriptions"
 phase: Alpha
 
 # Links to show on right-hand-side of header
