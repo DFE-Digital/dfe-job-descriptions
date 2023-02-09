@@ -8,4 +8,4 @@ Note: This is not a list of current vacancies
 
 ### How to add or create your profession's job descriptions using GitHub.
 
-Lewis Wilson, Head of Software Development, has put together some useful [videos](support/videos) to support you through this process
+Lewis Wilson, Head of Software Development, has put together some useful [videos](/Support/Videos.md) to support you through this process
