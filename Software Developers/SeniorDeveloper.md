@@ -30,7 +30,7 @@ Read more about software development on the
 
 ### Essential:
 
- * Expert knowledge of software development using (Ruby and the Ruby on Rails framework/ C#.NET / Ruby and the Ruby on Rails framework, C#/.NET, or similar)
+ * Expert knowledge of software development using (Ruby and the Ruby on Rails framework, C#/.NET, or similar)
   
  * Experience leading by example working with technical teams to deliver user-focused services in an agile environment
    
