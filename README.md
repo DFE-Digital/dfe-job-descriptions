@@ -1,13 +1,9 @@
-# DfE Job Descriptions
+# This project is going to be archived
 
-You can view the job descriptions [here](https://dfe-digital.github.io/dfe-job-descriptions/index.html)
+Do not make changes in this repo. 
 
-This is a repo to store the standard job descriptions we use across the DfE. Different areas of the department might want to tweak these when creating a job description specific to their area
+This project has been replaced with a new service and supporting repo. 
 
-Note: This is not a list of current vacancies
+Use [https://github.com/DFE-Digital/ddt-job-descriptions](https://github.com/DFE-Digital/ddt-job-descriptions) instead
 
-## Need some help?
-
-### How to add or create your profession's job descriptions using GitHub.
-
-Lewis Wilson, Head of Software Development, has put together some useful [videos](/Support/Videos.md) to support you through this process
+Job descriptions are available at [https://job-descriptions.education.gov.uk](https://job-descriptions.education.gov.uk)
