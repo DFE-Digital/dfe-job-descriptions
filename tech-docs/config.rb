@@ -2,6 +2,8 @@
 
 require 'govuk_tech_docs'
 
+redirect "/*", to: "https://job-descriptions.education.gov.uk", status: 301
+
 GovukTechDocs.configure(self)
 
 configure :build do
