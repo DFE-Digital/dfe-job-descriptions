@@ -1,4 +1,4 @@
-# This project is going to be archived
+# This project is archived
 
 Do not make changes in this repo. 
 
